@@ -13,7 +13,7 @@ public class Test {
     private String id;
     private String name;
     private String age;
-    private String mkdir;
+    private String pop;
 
 
 }
