@@ -15,5 +15,6 @@ public class Test {
     private String age;
     private String pop;
     private String axa;
+    private String bnm;
 
 }
